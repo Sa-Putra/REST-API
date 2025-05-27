@@ -1,0 +1,32 @@
+[
+    {
+        "nama" : "Rahmat Awal Saputra",
+        "umur" : 20,
+        "nim" : "2217020156",
+        "lulus" : true,
+        "hobby" : [
+            "membaca",
+            "main game",
+            "mancing"
+        ],
+        "pembimbing" : {
+            "pembimbing 1" : "Novia Lestari",
+            "pembimbing 2" : "Muhammad Teguh Brillian"
+        }
+    },
+    {
+        "nama" : "Cristiano Ronaldo",
+        "umur" : 14,
+        "nim" : "30170200225",
+        "lulus" : false,
+        "hobby" : [
+            "membaca",
+            "nonton film",
+            "main Bola"
+        ],
+        "pembimbing" : {
+            "pembimbing 1" : "Ozzy Secio Riza",
+            "pembimbing 2" : "Ahmad Fauzi"
+        }
+    }
+]
